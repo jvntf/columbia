@@ -88,17 +88,59 @@
             + ccar
 
 
+# 1/24 #
+
+ - Essay #1
+     + contemporary events
+     + historical contexts
+     + use Proquest Historical newspaper databse, microfilm archives, historical background and context for the issue
+     + no need to provide comprehensive history
 
 
+ * current events
+     - Eric gonzales (district attorney of brooklyn)
+         + knocked off incumbent
+         + justice 2020 project
+         + consequences of the job of prosecutor in american politics
+         + Growth of plea bargaining = increase in prosecutorial process
 
 
-
-
-
-
-
-
-
-
+ 1. How do we experience crime?
+    * media bias
+    * spectators
+        - reality shows
+    * victims
+    * criminal actors
+    * witnesses
+    * documenters, recorders
+    * judges
+    * political participants
+ 2. Uniformed Policing
+    * city is older than police
+    * policing takes hold in the 1830s
+        - issue of the standing army
+        - was once a controversial issue
+        - army is an agent of tyranny
+        - 1825 the army is dealing with Native problems 
+            + never goes away
+        - post civil war this is not a question any longer
+    * early policing 1700s
+        - constable - watch system
+        - contable is directed by the magistrate
+            + constable is a fee worker
+            + intertwined with the criminal world
+        - public nature of punishment
+    * publicity deters crime
+    * Cesare Beccaria - *On Crime and Punisment*
+        - rationalization of criminal law
+    * jeremy bentham
+        - theorist of utilitarian thought
+        - collab with patrick 
+        - robert peel secretary of the homeoffice
+            + metropolitan police act
+            + 9 principles of policing
+            + 
+        - 
+    * 
 
 
